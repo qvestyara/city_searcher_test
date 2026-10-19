@@ -1,0 +1,7 @@
+{
+  "name": "city_searcher",
+  "version": "1.0.0",
+  "description": "Allows the user to enter a letter and will show the number of cities beginning with that letter",
+  "license": "ISC",
+  "author": "Yurii B"
+}
